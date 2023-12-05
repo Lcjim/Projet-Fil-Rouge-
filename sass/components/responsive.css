@@ -1,0 +1,12 @@
+@media screen and (min-width: 1024px) {
+    body {
+        max-height: 440px;
+       
+    }
+}
+
+@media screen and (max-width:768px) {
+    #conteneur .col-4{
+        width: 48%;
+    }
+}
